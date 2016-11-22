@@ -1,0 +1,28 @@
+body {
+	background: #369;
+	color: #fff;
+}
+
+.header {
+	text-align: center;
+	padding: 10px 0;
+}
+
+.leftMenu {
+	float: left !important;
+
+	width: 300px;
+	border-right: 1px solid white;
+}
+
+.centerColumn {
+	margin-left: 300px;
+	padding-left: 10px;
+}
+
+.footer {
+	clear: both;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 25px;
+}
